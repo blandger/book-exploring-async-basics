@@ -1,6 +1,7 @@
 [book]
 authors = ["Carl Fredrik Samson"]
 language = "en"
+version = "0.0.1"
 multilingual = false
 src = "src" 
 title = "The Node Experiment - Exploring Async Basics with Rust"
@@ -9,3 +10,5 @@ title = "The Node Experiment - Exploring Async Basics with Rust"
 theme = "src/theme"
 git-repository-url = "https://github.com/cfsamson/book-exploring-async-basics"
 google-analytics = "UA-149686420-1"
+
+[output.epub]
