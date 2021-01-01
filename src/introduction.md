@@ -88,7 +88,7 @@ will not repeat everything here. However, it's definitely not a must.
 
 1. We'll implement a **toy** version of the Node.js event loop (a bad, but working and conceptually similar event loop)
 
-2. We'll **not** primarily focus on code quality and safety, though this is important,
+2. We'll **not** primarily focus on code quality and safety.
    I will focus on understanding the concepts and ideas behind the code. We will have to make
    many shortcuts to keep this concise and short.
 
